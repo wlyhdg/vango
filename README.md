@@ -6,7 +6,7 @@ If you would like to create this project from scratch:
 
 Startup:
 
-1. Clone the repo
+1. Clone the repo or manually download. You can clone by opening a console and typing
 
 <code>git clone https://github.com/wlyhdg/vango.git</code>
 

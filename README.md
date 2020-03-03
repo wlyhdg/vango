@@ -22,7 +22,7 @@ Startup:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>npm run dev</code>
 
-We are done setting up this second console.
+&nbsp;&nbsp;&nbsp;&nbsp;We are done setting up this second console.
 
 5. In the starting console, go into the directory that contains the python server running file 'manage.py'
 

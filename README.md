@@ -22,13 +22,19 @@ Startup:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>npm run dev</code>
 
-&nbsp;&nbsp;&nbsp;&nbsp;We are done setting up this second console.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are done setting up this second console.
 
-5. In the starting console, go into the directory that contains the python server running file 'manage.py'
+5. In the starting console, run your python virtual environment using
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>source vango-env/bin/activate</code>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOTE: This is for a Mac setup. I will add virtual environment code for Windows soon, but <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in that case vango-env would have a vango/Scripts/activate.bat equivalent.</b>
+
+6. Go into the directory that contains the python server running file 'manage.py'
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>cd vango/vango</code>
 
-6. Run the server 
+7. Run the server 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>python manage.py runserver</code>
 

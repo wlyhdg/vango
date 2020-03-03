@@ -1,0 +1,4 @@
+{
+  "presets": ["@babel/preset-env", "vue"],
+  "plugins": ["transform-class-properties"]
+}

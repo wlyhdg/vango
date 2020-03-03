@@ -28,7 +28,8 @@ Startup:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>source vango-env/bin/activate</code>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOTE: This is for a Mac setup. I will add virtual environment code for Windows soon, but <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in that case vango-env would have a vango/Scripts/activate.bat equivalent.</b>
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note: This is for a Mac setup. I will add virtual environment code for Windows soon, but <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in that case vango-env would have a <code>vango/Scripts/activate.bat</code> equivalent.</b>
+<br /><br />
 
 6. Go into the directory that contains the python server running file 'manage.py'
 

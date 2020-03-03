@@ -34,4 +34,4 @@ We are done setting up this second console.
 
 Now you can go into vango/vango/frontend/src and this will act as your Vue main directory. Vue code is already working and you can add a components folder, Vuex, Vue Router, etc.
 
-Django rest framework is also installed if you want to add apis and test.
+Django rest framework is also installed if you want to add APIs and test a full stack application.
